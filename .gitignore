@@ -36,3 +36,4 @@ internal
 
 #exclude raw svg files
 svg-parser/factory/input/*
+.vercel
